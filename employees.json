@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ali",
+    "department": "BSCS",
+    "salary": 50000
+  },
+  {
+    "id": 2,
+    "name": "Ahmed",
+    "department": "IT",
+    "salary": 45000
+  },
+  {
+    "id": 3,
+    "name": "Sara",
+    "department": "HR",
+    "salary": 40000
+  },
+  {
+    "id": 4,
+    "name": "Ayesha",
+    "department": "BSCS",
+    "salary": 55000
+  },
+  {
+    "id": 5,
+    "name": "Usman",
+    "department": "Finance",
+    "salary": 48000
+  },
+  {
+    "id": 6,
+    "name": "Zunair",
+    "department": "BSCS",
+    "salary": 60000
+  }
+]
